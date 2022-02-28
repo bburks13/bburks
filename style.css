@@ -1,0 +1,69 @@
+
+.header {
+	text-align: center;
+	margin-top: 60px;
+	margin-left: 32%;
+	margin-right: 27%;
+
+	border: 3px solid #cccccc;
+	border-radius: 2px;
+	box-shadow: 0px 5px 5px #dddddd, 0px 0px 5px #dddddd;
+	padding-: 10px;
+	background-color: #F8B195;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+
+}
+
+table {
+	margin-top: 30px;
+	margin-left: 32%;
+	margin-right: 27%;
+	border: 3px solid #cccccc;
+	border-radius: 2px;
+	box-shadow: 0px 5px 5px #dddddd, 0px 0px 5px #dddddd;
+	padding-: 10px;
+	width: 41%;
+	padding: 15px 5px 10px 5px;
+	color: white;
+	text-shadow: 1px 1px 2px black;
+}
+
+.Category {
+	padding: 5px;
+}
+
+.education {
+	background-color: #F67280;
+}
+
+.computerskills {
+	background-color: #C06C84;
+}
+
+.experience {
+	background-color: #6C5B7B;
+}
+
+.skills {
+	background-color: #355C7D;
+}
+
+.fade {
+	margin-left: 32%;
+	margin-right: 27%;
+	text-shadow: 5px 5px 5px black;
+}
+
+body {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 8%;
+	margin-right: 8%;
+	border: 3px solid #cccccc;
+	border-radius: 2px;
+	box-shadow: 0px 5px 5px #dddddd, 0px 0px 5px #dddddd;
+	padding-: 10px;
+	padding: 15px 5px 25px 5px;
+	border-inline-color: A5B2B5;
+}
